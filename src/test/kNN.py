@@ -1,5 +1,5 @@
-from os import listdir
 import operator
+from os import listdir
 
 from numpy import zeros, array, shape, tile
 
